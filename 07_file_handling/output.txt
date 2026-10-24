@@ -1,0 +1,7 @@
+Total words: 31
+Top 5 words:
+python: 4
+learn: 3
+is: 2
+to: 2
+and: 2

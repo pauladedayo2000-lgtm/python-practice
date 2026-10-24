@@ -1,0 +1,3 @@
+Python is easy to learn and Python is fun to use. Many people learn Python
+because Python can automate boring tasks. Learn a little every day and you
+will see progress.
